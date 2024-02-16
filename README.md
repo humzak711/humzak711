@@ -1,1 +1,1 @@
-I have knowledge in Python, Rust, HTML/CSS and SQL
+backend Web developer - knowledgable in Python, Go, and Rust
