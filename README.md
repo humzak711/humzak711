@@ -1,1 +1,1 @@
-backend Web developer - knowledgable in Python, Go, and Rust
+backend Web developer - knowledgeable in Python, Go, and Rust
