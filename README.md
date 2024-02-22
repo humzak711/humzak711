@@ -1,1 +1,1 @@
-Web dev - Python/Go , Html/Css/Javascript
+Web developer - Python/Go, HTML/CSS/JavaScript
