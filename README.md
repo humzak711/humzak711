@@ -1,1 +1,1 @@
-Web developer - Python/Go, HTML/CSS/JavaScript
+Developer + white hat - Python/Go, HTML/CSS/JavaScript
