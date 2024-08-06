@@ -10,5 +10,5 @@ Technologies I use:<br>
 
 https://leetcode.com/u/humzak711/
 
-If you want to talk then feel free to hit me up on Discord
-My Discord username: serpentsobased
+If you want to talk then feel free to hit me up on Discord<br>
+My Discord username: `serpentsobased`
