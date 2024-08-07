@@ -3,7 +3,7 @@ I use a wide range of programming and scripting languages which I use for kernel
 
 Technologies I use:<br>
 - Programming languages - C and Go
-- Scripting languages - tcsh/csh, bash, zsh and python
+- Scripting languages - tcsh/csh, bash/zsh and python
 - Query languages - SQL
 - Backend frameworks - Gin and Gorilla/mux
 - Operating systems - Linux and FreeBSD
