@@ -12,3 +12,5 @@ https://leetcode.com/u/humzak711/
 
 If you want to talk then feel free to hit me up on Discord<br>
 My Discord username: `serpentsobased`
+
+Check out my youtube channel: https://youtube.com/@TwofishSerpent
