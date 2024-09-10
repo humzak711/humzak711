@@ -4,7 +4,7 @@ Rootkit specialist.
 
 Technologies I use:<br>
 - Programming languages - C and Go
-- Assembly languages - x86, x86-64
+- Assembly languages - x86 and x86-64
 - Scripting languages - tcsh/csh, bash/zsh and python
 - Query languages - SQL
 - Backend frameworks - Gin and Gorilla/mux
