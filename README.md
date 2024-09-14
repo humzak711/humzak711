@@ -1,7 +1,7 @@
 **A based Linux and FreeBSD purple teaming and sysadmin enthusiast experienced and skilled in a variety of topics, my specialties are in malware development, malware analysis and system administration.
 I use a wide range of programming and scripting languages which I use for kernel development in the FreeBSD and Linux operating systems.**
 
-*Rootkit specialist*
+*Rootkit and sysadmin specialist*
 
 Technologies I use:<br>
 - Programming languages - C and Go
