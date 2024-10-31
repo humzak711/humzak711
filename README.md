@@ -1,4 +1,4 @@
-**Purple Team**
+**Malware developer and reverse engineer**
 
 ***Everything here is for educational and research purposes only and should only be taken as 
 a resource to learn about programming and cybersecurity, I do not condone any misuse of any of my
