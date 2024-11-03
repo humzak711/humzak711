@@ -10,7 +10,6 @@ Technologies I use:<br>
 - Scripting languages - tcsh/csh, bash and python
 - Query languages - SQL
 - Backend frameworks - Gin and Gorilla/mux
-- Operating systems - Linux and FreeBSD
 
 https://leetcode.com/u/humzak711/
 
