@@ -6,7 +6,7 @@ repositories whatsoever***
 
 Technologies I use:<br>
 - Programming languages - C and Go
-- Assembly languages - x86-64 (NASM, GAS, inline)
+- Assembly languages - x86-64 
 - Scripting languages - tcsh/csh, bash and python
 - Query languages - SQL
 - Backend frameworks - Gin and Gorilla/mux
