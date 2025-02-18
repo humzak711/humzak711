@@ -3,9 +3,9 @@ a resource to learn about programming and cybersecurity, I do not condone any mi
 repositories whatsoever***
 
 Technologies I use:<br>
-- Programming languages - C and Go
+- Programming languages - C, Go and python
 - ISA's - x86 (intel) (NASM, GAS)
-- Scripting languages - tcsh/csh, bash and python
+- Scripting languages - tcsh/csh and bash
 
 https://leetcode.com/u/humzak711/
 
