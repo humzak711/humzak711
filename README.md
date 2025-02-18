@@ -4,7 +4,7 @@ repositories whatsoever***
 
 Technologies I use:<br>
 - Programming languages - C, Go and python
-- ISA's - x86 (intel) (NASM, GAS)
+- ISA's - x86 (Intel) (NASM, GAS)
 - Scripting languages - tcsh/csh and bash
 
 https://leetcode.com/u/humzak711/
