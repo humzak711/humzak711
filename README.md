@@ -1,4 +1,3 @@
-***MEOW***
-
-Microarchitecture & Linux kernel internals<br>
+I like cats, Microarchitecture, and Low level programming <br>
+https://github.com/MicroOperations<br>
 Discord: `macrofusion`
