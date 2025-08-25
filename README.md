@@ -1,3 +1,4 @@
-I like Cats, Microarchitecture, and Low level programming <br>
-https://github.com/MicroOperations<br>
-Discord: `macrofusion`
+- I like Cats, Microarchitecture, and Low level programming <br>
+- Only doing what hasn't been done before <br>
+- https://github.com/MicroOperations<br>
+- Discord: `macrofusion`
