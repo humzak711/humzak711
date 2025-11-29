@@ -1,4 +1,4 @@
-- I like Cats, Microarchitecture, and Low level programming <br>
-- Only doing what hasn't been done before <br>
+- Interested in Microarchitecture & Safety Critical RTOS
+
 - https://github.com/MicroOperations<br>
 - Discord: `macrofusion`<br>
