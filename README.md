@@ -1,3 +1,3 @@
-- Interested in Microarchitecture & Safety Critical RTOS
+- Interested in Microarchitecture & Safety Critical RTOS<br>
 - https://github.com/MicroOperations<br>
 - Discord: `macrofusion`<br>
