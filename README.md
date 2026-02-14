@@ -1,3 +1,3 @@
-- Interested in Microarchitecture & Safety Critical RTOS<br>
+- Low level programmer interested in OS design, Virtualisation and MicroArchitecture <br>
 - https://github.com/MicroOperations<br>
 - Discord: `macrofusion`<br>
