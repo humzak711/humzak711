@@ -1,2 +1,2 @@
-- Real-time computing / Formal methods / OS design / Microarchitecture <br>
+- Real-time computing / Formal methods <br>
 - Discord: `macrofusion`<br>
