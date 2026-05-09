@@ -1,3 +1,2 @@
-- Low level programmer interested in research related to Real-Time Computing, Distributed Computing, OS design, and MicroArchitecture <br>
-- https://github.com/MicroOperations<br>
+- Real-time computing / Formal methods / OS design / Microarchitecture <br>
 - Discord: `macrofusion`<br>
